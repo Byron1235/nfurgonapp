@@ -8,3 +8,6 @@ La ver0.01, se enfoca en el levantamiento de los recursos y carpetas necesarias 
 
 ### ver 0.001
 Se han creado carpetas para cada uno de los módulos correspondientes y su eventual desarrollo.
+
+###ver 0.02
+Se ha agregado el login vía celular o correo, además se ha añadido de manera exitosa la autenticación con Google Firebase, más una splash screen.
