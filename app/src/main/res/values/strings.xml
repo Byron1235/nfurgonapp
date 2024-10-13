@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">nfurgonapp</string>
+    <string name="inicia_sesi_n_con_tel_fono">Inicia sesión con teléfono</string>
+    <string name="inicia_sesi_n_con_google">Inicia sesión con google</string>
 </resources>
