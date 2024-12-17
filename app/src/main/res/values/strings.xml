@@ -2,4 +2,30 @@
     <string name="app_name">nfurgonapp</string>
     <string name="inicia_sesi_n_con_tel_fono">Inicia sesión con teléfono</string>
     <string name="inicia_sesi_n_con_google">Inicia sesión con google</string>
+    <string name="registrarse">Creemos tu cuenta N-FURGON</string>
+    <string name="primer_nombre">Ingresa tu nombre</string>
+    <string name="apellido">Ingresa tu apellido</string>
+    <string name="phone_number">Ingrese su número</string>
+    <string name="continue_text">Continuar</string>
+    <string name="title_activity_driver_home">DriverHomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Mapa</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_exit">Cerrar sesión</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="google_maps_key" />
+    <string name="_0_0">0.0</string>
+    <string name="decline">Rechazar</string>
+    <string name="permiso_denegado">Active los permisos por favor</string>
+    <string name="decline_failed">No has podido declinar...</string>
+    <string name="decline_success">Has declinado la acción</string>
+    <string name="token_not_found">Token no encontrado...</string>
+    <string name="start_uber">Empezar viaje!</string>
+    <string name="complete_uber">Viaje completado!</string>
 </resources>
