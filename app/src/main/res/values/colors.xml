@@ -7,4 +7,33 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+        <!-- Primary brand color (azul oscuro) -->
+        <color name="colorPrimary">#FFFFFF</color>
+        <!-- Primary dark variant (color principal más oscuro) -->
+        <color name="colorPrimaryDark">#CCCCCC</color>
+        <!-- Accent color (usualmente para botones y acciones resaltadas) -->
+        <color name="colorAccent">#000000</color>
+
+        <!-- Background color (usualmente el fondo de la aplicación) -->
+        <color name="colorBackground">#FFFFFF</color>
+        <!-- Text color for primary content -->
+        <color name="colorPrimaryText">#000000</color>
+        <!-- Text color for secondary content -->
+        <color name="colorSecondaryText">#757575</color>
+        <!-- Color for dividers -->
+        <color name="colorDivider">#BDBDBD</color>
+
+        <!-- Error color (usado para mensajes de error o validación) -->
+        <color name="colorError">#B00020</color>
+
+        <!-- Material Design light and dark mode colors -->
+        <color name="colorOnPrimary">#FFFFFF</color>
+        <color name="colorSurface">#FFFFFF</color>
+        <color name="colorOnSurface">#000000</color>
+        <color name="colorOnError">#FFFFFF</color>
+    <color name="progress_bar_color">#151828</color>
+    <color name="dark_gray">#424242</color>
+    <color name="colorStartUber">#000000</color>
+
 </resources>
