@@ -84,11 +84,7 @@ The web admin panel is publicly accessible:
 
 🌐 **[https://nfurgonapp.web.app/](https://nfurgonapp.web.app/)**
 
-Demo credentials:
-```
-Email:    contacto.bdto@gmail.com
-Password: adminadmin
-```
+Contact me if u wanna a demo credentials
 
 > You can also sign in with a Google account.
 
