@@ -3,9 +3,9 @@
 > Real-time monitoring and management platform for school transportation in Chile.  
 > Multi-module Android app + Web Admin Panel — built with Kotlin and Firebase.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Web%20Panel-brightgreen)](https://nfurgonapp.web.app/)
 [![Driver App](https://img.shields.io/badge/GitHub-Driver%20App-181717?logo=github)](https://github.com/Byron1235/nfurgonapp)
 [![Tutor App](https://img.shields.io/badge/GitHub-Tutor%20App-181717?logo=github)](https://github.com/Jose073/nfurgonTutor)
+[![Status](https://img.shields.io/badge/Status-Completed%20%7C%20Nov%202024-blue)]()
 
 ---
 
@@ -78,15 +78,15 @@ The platform follows a **modular architecture** with three independent clients s
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Deployment
 
-The web admin panel is publicly accessible:
+The platform was fully deployed and operational during the academic demonstration period (Nov 2024):
 
-🌐 **[https://nfurgonapp.web.app/](https://nfurgonapp.web.app/)**
+- 🌐 **Web Admin Panel** — hosted on Firebase Hosting
+- 📱 **Driver & Tutor apps** — tested on physical Android devices
+- ☁️ **Backend** — Firebase Realtime Database + FCM running on Google Cloud
 
-Contact me if u wanna a demo credentials
-
-> You can also sign in with a Google account.
+> Services have since been decommissioned. Screenshots and architecture diagrams are available in `/docs`.
 
 ---
 
